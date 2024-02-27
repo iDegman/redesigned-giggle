@@ -1,0 +1,94 @@
+* { margin: auto; padding: 0; font-family: arial;  }
+
+/*body: cuerpo de la página*/
+body { 
+background-color: #45CCFF;
+background-size: cover;
+}
+
+/*cabecera*/
+header { 
+background-image: url(garena.jpg); width: 50%; height: 100%;
+background-size: width: cover;
+}
+header H1 { 
+text-align: center; color: black; padding: 0.5em; font-size: 1.5em; 
+}
+header H4 { 
+text-align: RIGHT; color: BLACK; padding: 0.5em; font-size: 1.2em; 
+}
+
+/*navegador*/
+nav { 
+background-image: url(garena.jpg);  
+}
+nav p { 
+display: inline; 
+}
+nav a:link, nav a:visited { 
+text-decoration: none; color: #f1f16c; background-color: #027244; margin: 0.3em; 
+}
+nav a:hover, nav a:active { 
+text-decoration: none; color: #9bf5ff; background-color: #543683; margin: 0.3em; 
+}
+
+
+
+/*principal: section:*/
+section { 
+width: 75%; background-color: #45CCFF; float: left; 
+}
+section h1 { 
+text-align: center; padding: 0.5em; color: black; font-size: 1.4em; 
+}
+section h2 { 
+text-align: center; padding: 0.5em; color: grey; font-size: 1.2em; 
+}
+section h3 { 
+text-align: left; padding: 0.3em 3em; color: #81BEF7; font-size: 1em;  
+}
+
+/*artículos: article*/
+article { 
+margin: 0.5em 3em; padding: 0.5em 2em; background-color: white; border: 3px double aqua; 
+}
+article p { 
+text-align: justify; 
+}
+
+/*propaganda: aside*/
+aside { 
+width: 25%; float: left; 
+}
+#anuncio1 { 
+margin: 20px; padding: 10px; border: 2px solid blue; background-color: white; 
+}
+#ANUNCIO2 h1 { 
+font-size: 1.1em; text-align: right; padding: 0.2em 0em; 
+}
+#anuncio1 h2 { 
+font-size: 1.5em; text-align: right; padding: 0.5em 0em; 
+}
+#anuncio1 p { 
+font-size: 0.9em; padding: 0.2em 1em; 
+}
+
+/*pie de página: footer*/
+footer { 
+clear: both; background-color: #CCCCC6; 
+}
+footer h1 { 
+text-align: center; font-size: 1.4em; color: navy; padding: 0.7em; 
+}
+footer h2 { 
+text-align: center; font-size: 1em; padding: 0.4em; 
+}
+footer a { 
+text-decoration: none; color: green; 
+}
+
+img {
+width: 78%;
+}
+
+
