@@ -1,6 +1,6 @@
 * { margin: auto; padding: 0; font-family: arial;  }
 
-/*body: cuerpo de la p·gina*/
+/*body: cuerpo de la p√°gina*/
 body { 
 background-color: #45CCFF;
 background-size: cover;
@@ -8,7 +8,7 @@ background-size: cover;
 
 /*cabecera*/
 header { 
-background-image: url(garena.jpg); width: 50%; height: 100%;
+background-image: url(img_2.jpg); width: 50%; height: 100%;
 background-size: width: cover;
 }
 header H1 { 
@@ -20,7 +20,7 @@ text-align: RIGHT; color: BLACK; padding: 0.5em; font-size: 1.2em;
 
 /*navegador*/
 nav { 
-background-image: url(garena.jpg);  
+background-image: url(img_2.jpg);  
 }
 nav p { 
 display: inline; 
@@ -48,7 +48,7 @@ section h3 {
 text-align: left; padding: 0.3em 3em; color: #81BEF7; font-size: 1em;  
 }
 
-/*artÌculos: article*/
+/*art√≠culos: article*/
 article { 
 margin: 0.5em 3em; padding: 0.5em 2em; background-color: white; border: 3px double aqua; 
 }
@@ -73,7 +73,7 @@ font-size: 1.5em; text-align: right; padding: 0.5em 0em;
 font-size: 0.9em; padding: 0.2em 1em; 
 }
 
-/*pie de p·gina: footer*/
+/*pie de p√°gina: footer*/
 footer { 
 clear: both; background-color: #CCCCC6; 
 }
